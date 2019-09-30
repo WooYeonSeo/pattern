@@ -109,7 +109,12 @@ process.on('exit',()=>{
 2. Observer pattern을 사용하지 않은 예제를 Observer pattern으로 구현
 3. [EventEmitter 코드](https://github.com/Zlobin/es-event-emitter)
 ----
+<<<<<<< HEAD
 - [참고사이트](https://victorydntmd.tistory.com/296)
 - [참고사이트](http://blog.naver.com/PostView.nhn?blogId=c_ist82&logNo=220795909036&parentCategoryNo=&categoryNo=9&viewDate=&isShowPopularPosts=false&from=postView)
 - [참고](https://gmlwjd9405.github.io/2018/07/08/observer-pattern.html)
+=======
+[참고사이트](https://victorydntmd.tistory.com/296)
+[참고사이트](http://blog.naver.com/PostView.nhn?blogId=c_ist82&logNo=220795909036&parentCategoryNo=&categoryNo=9&viewDate=&isShowPopularPosts=false&from=postView)
+>>>>>>> ee6ceaeb25e8fd51a7dbef542e67616ad0eeaaf9
 ----
