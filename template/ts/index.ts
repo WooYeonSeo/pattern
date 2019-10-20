@@ -1,4 +1,4 @@
-class _RasberryBeer{
+class _RaspberryBeer{
     constructor(){
 
     }
