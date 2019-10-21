@@ -4,6 +4,11 @@ class Beverage {
     this.soymilk = soymilk;
     this.chocolate = chocolate;
     this.whip = whip;
+<<<<<<< HEAD
+    this.twoWhip = twoWhip;
+=======
+    this.twoWhip = twoWhip
+>>>>>>> f24ecf9fa02f506fbbb91f10efa6781cb36ce9b9
   }
 
   getCost() {
