@@ -1,11 +1,12 @@
-class ScoreRecord{
+const Subject = require("./subject");
+class ScoreRecord extends Subject{
     constructor(){
+        super();
         this.scores = [];
-        this.dataSheetView = undefined; 
     }
     addScore(score){
         this.scores.push(score);
-        this.dataSheetView.update();
+        this.notifyObservers();
     }
 }
 module.exports = ScoreRecord;
