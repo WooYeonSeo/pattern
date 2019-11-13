@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 class _RaspberryBeer{
+=======
+class _RasberryBeer{
+>>>>>>> bdfaf0edee800e515c0e67d08eb3696bca3da0d0
     constructor(){
 
     }
